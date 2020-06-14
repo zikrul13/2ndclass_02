@@ -1,0 +1,87 @@
+body{
+	margin: auto;
+}
+img{
+	max-width: 100%
+}
+.img{
+	padding: 5px;
+	margin-bottom: 100px;
+	
+}
+h1{
+	font-size: 40px;
+	margin: 50px;
+	text-align: center;
+	margin-top: 50px
+
+
+}
+.container{
+	width: 1200px;
+	margin: auto;
+}
+.contaner1{
+	width: 200px;
+	margin: auto;
+
+
+}
+.a{
+	color: skyblue
+}
+.b{
+	color: #333333
+}
+p{
+	font-size: 20px;
+	text-align: center;
+	text-shadow: 7px 3px 5px grey
+
+}
+.post{
+	height: 500px;
+	width: 600px;
+	margin-left: 300px;
+	
+}
+.post1{
+	width: 300px;
+	margin-left: 200px;
+	font-size: 10px;
+	color: #808080ab;
+}
+.post2{
+	font-size: 62px;
+	color: orange;
+
+}
+.post3{
+	font-size: 40px;
+	color: lightgreen;
+	margin-left: 300px;
+}
+.post4{
+	height: 100px;
+	width: 400px;
+	float: left;
+	margin-bottom: 200px;
+}
+.post5{
+	
+
+}
+h5{font-size: 50px;
+	text-align: center;
+	text-shadow: 7px 3px 5px grey;
+	
+
+}
+.post6{
+	height: 300px;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 100px;
+
+}
